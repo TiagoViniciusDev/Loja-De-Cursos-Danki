@@ -1,0 +1,3 @@
+A imagem do main1 foi escurecida usando uma camada com background preto com opacidade de 0.7
+
+Já a imagem do paralax foi escurecida no photoshop colocando um brilho de -70
